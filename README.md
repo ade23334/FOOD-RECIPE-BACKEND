@@ -1,4 +1,4 @@
-## FOOD RECIPE BACKEND
+# FOOD RECIPE BACKEND
 
-# DESCRIPTION
+## DESCRIPTION
 Food Recipe App — Express.js backend API for managing recipes (CRUD)
